@@ -36,3 +36,11 @@ After:
 
 Thus, changing the scores for Thomas High School drops their ranking in the district by several spots. This shows the importance of data integrity as it can drastically affect a school ranking, which can mislead the community.
 
+Replacing the math and reading scroes for the Thomas high school ninth graders indicates they all failed the exam (ie. cheating) because the school count decreased from 1635 to 1174. (Refer to calculation in step 5 for proof)
+
+<img width="868" alt="Screen Shot 2021-07-24 at 8 55 18 PM" src="https://user-images.githubusercontent.com/85506567/126884390-58bbb2b7-c5c8-42d5-bbea-9d40186528e4.png">
+Further, after data cleaning, removing ninth grade Thomas High School students drops math and reading pass rates in terms of school size, spending, and  type as well. 
+<img width="1061" alt="Screen Shot 2021-07-24 at 9 00 05 PM" src="https://user-images.githubusercontent.com/85506567/126884448-32ccd62d-0528-4082-b4fd-e36fddaaa7e2.png">
+<img width="1121" alt="Screen Shot 2021-07-24 at 9 01 21 PM" src="https://user-images.githubusercontent.com/85506567/126884467-92784be8-7861-4c87-9d7b-a433d83e5b2f.png">
+
+### Summary
