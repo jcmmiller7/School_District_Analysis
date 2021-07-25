@@ -44,3 +44,4 @@ Further, after data cleaning, removing ninth grade Thomas High School students d
 <img width="1121" alt="Screen Shot 2021-07-24 at 9 01 21 PM" src="https://user-images.githubusercontent.com/85506567/126884467-92784be8-7861-4c87-9d7b-a433d83e5b2f.png">
 
 ### Summary
+By replacing the Nan's at Thomas High School, the updated District analysis indicate a decrease in school rank from 2 to 8, a decrease in average math score by .1% for the district, decrease in the math and reading pass rates for the district, as well as a decrease in overall pass rate from 65% to 64.9%
